@@ -47,4 +47,11 @@ Multiple attributes is separated by a comma.
 
 ##Installation
 
+Easy:
 `gem install knife-psearch`
+
+Development version:
+```
+gem build knife-psearch.gemspec 
+sudo gem install knife-psearch-0.1.0.gem 
+```
